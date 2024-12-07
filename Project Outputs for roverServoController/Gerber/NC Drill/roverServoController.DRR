@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: roverServoController.PcbDoc   2024-12-04  11:10:22
+NCDrill File Report For: roverServoController.PcbDoc   2024-12-07  15:40:23
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : roverServoController-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             86        PTH        271.03mm (10.67inch)
+T1      0.3mm (12mil)                                             Round             92        PTH        283.82mm (11.17inch)
 T2      0.5mm (20mil)                                             Round             7         PTH        63.45mm (2.50inch)
 T3      0.53mm (21mil)                                            Round             1         PTH        0.00mm (0.00inch)
 T4      0.6mm (24mil)                                             Slot              4         PTH        48.53mm (1.91inch)
@@ -19,6 +19,6 @@ T8      3.4mm (134mil)                                            Round         
 T9      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
 T10     3.2mm (126mil)                                            Round             4         NPTH       72.86mm (2.87inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              132
+Totals                                                                              138
 
 Total Processing Time (hh:mm:ss) : 00:00:00
